@@ -1,0 +1,10 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(56, 158, 226, 0.534) ;
+}
+h1, h2, h3, .subheading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+h2:hover, h3:hover{
+    color:rgb(2, 75, 2)
+}
